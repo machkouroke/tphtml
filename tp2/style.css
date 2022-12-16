@@ -1,0 +1,28 @@
+.details {
+    background-color: blue;
+    position: absolute;
+    bottom: 100px;
+    left: 100px;
+}
+
+.article {
+    background: gray;
+    width: 400px;
+    height: 300px;
+    position: relative;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fix
+{
+    position: fixed;
+    width: 300px;
+    height: 100px;
+    top: 700px;
+    left: 1467px;
+    background: blue;
+}
